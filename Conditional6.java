@@ -9,8 +9,7 @@ public class Conditional6 {
         double x = in.nextDouble();
         System.out.print("Enter floating point another number: ");
         double y = in.nextDouble();
-        }
-
+        
         x = Math.round(x * 1000);
         x = x / 1000;
 
@@ -23,4 +22,5 @@ public class Conditional6 {
             System.out.println("They are different");
         }
     }
+}
     
