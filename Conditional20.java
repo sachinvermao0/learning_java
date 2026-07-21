@@ -1,4 +1,5 @@
-
+// Write a Java program that accepts two floating­point numbers and checks whether they are the 
+// same up to two decimal places.
 
 import java.util.Scanner;
 public class Conditional20 {
