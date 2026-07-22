@@ -1,3 +1,6 @@
+// Write a Java program to get the maximum value of the year, month, week, and date from the
+//  current date of a default calendar.
+
 import java.util.*;
 public class Date_time3 {
     public static void main(String[] args) {
